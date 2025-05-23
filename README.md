@@ -1,5 +1,9 @@
 # ML-Based Spam Email Detection Web App (Frontend)
 
+🌐 **Live Demo**: [https://webapp-frontend-qawu.onrender.com/](https://webapp-frontend-qawu.onrender.com/)
+
+> ⚠️ **Note:** Due to the limitations of Render’s free-tier hosting and traffic scaling constraints, initial loading of different modules (frontend, backend, and ML service) may take up to 30–60 seconds. Please allow some time for all services to wake up.
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
